@@ -1,4 +1,5 @@
 def Gen_max_entangle(N):
+    ''' The function Gen_max_entangle(N) return the N-qbit Quantum Circuit which is maximally entangled. '''
     import numpy as np
     from qiskit import QuantumCircuit
     qc = QuantumCircuit(N)
