@@ -1,4 +1,6 @@
 def Gen_max_entangle(N):
+    import numpy as np
+    from qiskit import QuantumCircuit
     qc = QuantumCircuit(N)
     qc.h(0)
     qc.barrier()
