@@ -1,0 +1,18 @@
+Maximum-Entangled-States
+Copyright 2022 Abhishek
+
+Original author: Abhishek
+Project: Maximum-Entangled-States
+Source repository: https://github.com/hyperfi/Maximum-Entangled-States
+
+The original implementation and accompanying comments in
+N_qbit_max_entangled.py were independently written by Abhishek.
+They are made available under the Apache License, Version 2.0.
+
+This licensing and attribution notice includes the original file version
+identified by Git blob SHA-1:
+4fdc85fb9d9274f9d9465d8350d12634ce78d9b3
+
+This notice concerns the author's own source code and comments; it does
+not apply to third-party packages imported or used by the program,
+including Qiskit and NumPy, which retain their own licenses.
